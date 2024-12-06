@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_PIPA GAS</name>
+   <tag></tag>
+   <elementGuidId>3a3eed1e-e04e-4307-b272-453e722a5411</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel-detail-container-content']/div/div/div[20]/ul/li</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.sac-item.sac-item-selected</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>c3ac0b2f-10a0-4777-8b99-741e2c5fd47a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sac-item sac-item-selected</value>
+      <webElementGuid>f609f8d3-0f5b-45b6-9185-7f6a88ea4753</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PIPA GAS</value>
+      <webElementGuid>249d3aec-0839-41c2-85af-46bf42751aae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-detail-container-content&quot;)/div[@class=&quot;MuiExpansionPanelDetails-root&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/ul[@class=&quot;form-control sac focus&quot;]/li[@class=&quot;sac-item sac-item-selected&quot;]</value>
+      <webElementGuid>00c25f74-f1ce-411f-9aef-cbead6897138</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-detail-container-content']/div/div/div[20]/ul/li</value>
+      <webElementGuid>218746bf-ad59-4f7a-a0c5-81e7c702b123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[20]/following::li[1]</value>
+      <webElementGuid>f000a8c2-9c18-4edd-b8c9-a9e4bbbd02b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[21]/preceding::li[1]</value>
+      <webElementGuid>366ba5a1-0fa3-4a83-b8e0-de2dbe1a8e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PIPA GAS']/parent::*</value>
+      <webElementGuid>698b9eb2-0827-4871-9b62-c0b43795235f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[20]/ul/li</value>
+      <webElementGuid>cfd78a1a-4787-422d-840b-ce51273923e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = 'PIPA GAS' or . = 'PIPA GAS')]</value>
+      <webElementGuid>e964c020-9990-4761-a25d-8915909e98a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

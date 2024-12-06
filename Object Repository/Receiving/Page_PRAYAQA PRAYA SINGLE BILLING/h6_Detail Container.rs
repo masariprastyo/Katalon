@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Detail Container</name>
+   <tag></tag>
+   <elementGuidId>e7097f78-a65a-4517-98be-9fd872a32b27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel-detail-container-header']/div/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#panel-detail-container-header > div.MuiExpansionPanelSummary-content > h6.panel-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>419b3ec5-dd87-4f1c-ab47-8e89e60719a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-title</value>
+      <webElementGuid>6092c59f-e5fa-412f-b569-66f3a18d129f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Detail Container</value>
+      <webElementGuid>fa1713d4-62f9-4bc5-a8a2-80a4a33dfc22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-detail-container-header&quot;)/div[@class=&quot;MuiExpansionPanelSummary-content&quot;]/h6[@class=&quot;panel-title&quot;]</value>
+      <webElementGuid>cdf4254c-b2d5-4bb5-8b7c-99a4f5aff776</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-detail-container-header']/div/h6</value>
+      <webElementGuid>e6efd18c-a88f-4458-ad99-a85d5622c284</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bayar Reefer (Shift)'])[1]/following::h6[1]</value>
+      <webElementGuid>5d260c35-1e81-48dd-b1ce-d1d0dc0d3daa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='End Shift Reefer'])[1]/following::h6[1]</value>
+      <webElementGuid>93409d8f-7649-4dec-a947-1ec2c313278b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[8]/preceding::h6[1]</value>
+      <webElementGuid>5347a445-a084-4e47-951d-d5cf586b949a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Detail Container']/parent::*</value>
+      <webElementGuid>919cee00-9bdc-4bd3-abdb-39fdb0384cd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h6</value>
+      <webElementGuid>d7300b8b-d32b-44ff-bd5a-ef0a0e6791a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Detail Container' or . = 'Detail Container')]</value>
+      <webElementGuid>a699d74f-2e5e-4c58-a774-c0164a3062cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

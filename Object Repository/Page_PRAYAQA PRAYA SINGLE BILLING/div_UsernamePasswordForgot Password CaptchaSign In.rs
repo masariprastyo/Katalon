@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UsernamePasswordForgot Password CaptchaSign In</name>
+   <tag></tag>
+   <elementGuidId>7a9f6470-b036-4c47-9159-fe76c0f7b517</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_login']/div/div/div/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.px-md-7.mx-md-1.mt-md-12.px-7</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23321c30-7508-4a1d-a7ad-c068c8b819e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>px-md-7 mx-md-1 mt-md-12 px-7</value>
+      <webElementGuid>cb47a15e-ff88-4a8b-85af-baa1f4c73c72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UsernamePasswordForgot Password ?CaptchaSign In</value>
+      <webElementGuid>a7ea048f-c9c7-4770-9de0-33f1331f2e2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login&quot;)/div[@class=&quot;p-0 col-lg-6 col-md-12 col-12&quot;]/div[@class=&quot;d-flex  flex-column h-100 p-0&quot;]/div[@class=&quot;mr-auto mt-auto ml-auto d-flex d-md-block align-items-center justify-content-center p-0 col-md-10 col-12&quot;]/div[@class=&quot;container-fluid align-middle p-0&quot;]/div[1]/div[@class=&quot;px-md-7 mx-md-1 mt-md-12 px-7&quot;]</value>
+      <webElementGuid>e566e7a6-b676-4d31-95d5-2ce78a9eaf71</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_login']/div/div/div/div/div/div[2]</value>
+      <webElementGuid>8fff8728-9ab5-4165-9a42-c11c3c4cf21c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='']/parent::*</value>
+      <webElementGuid>e2a35601-1f52-4f90-9f4c-2559658f7b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div[2]</value>
+      <webElementGuid>aa2c0fc4-1b6f-4f30-87b4-2b1f0e51bbfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'UsernamePasswordForgot Password ?CaptchaSign In' or . = 'UsernamePasswordForgot Password ?CaptchaSign In')]</value>
+      <webElementGuid>d3ef4c5c-589f-43a6-bdbe-6b50f9e3c01b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

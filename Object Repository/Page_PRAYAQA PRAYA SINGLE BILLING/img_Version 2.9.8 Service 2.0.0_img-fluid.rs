@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Version 2.9.8 Service 2.0.0_img-fluid</name>
+   <tag></tag>
+   <elementGuidId>1db2c2de-4f19-4554-b907-9d977fc0e843</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_login']/div[2]/div/div[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-end.w-100 > img.img-fluid</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>a8d74a47-fc9a-4f57-9916-a63cc44dbf6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://prayaqa.ilcs.co.id/media/logos/ilustrasiPelabuhan New.png</value>
+      <webElementGuid>1e1d32d6-1d94-4670-85cd-9af563a7d226</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-fluid</value>
+      <webElementGuid>862cbd20-02de-479d-b18e-aabff6e51134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Illustration</value>
+      <webElementGuid>4f16dd4f-ee75-4310-86fe-323810ebb2af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login&quot;)/div[@class=&quot;w-100 p-0 d-none d-md-block col-lg-6 col-md-12 col-12&quot;]/div[@class=&quot;w-100 min-h-100 d-flex flex-column justify-content-around&quot;]/div[@class=&quot;d-flex justify-content-end w-100&quot;]/img[@class=&quot;img-fluid&quot;]</value>
+      <webElementGuid>a60fa778-18a2-4f72-91d6-f7a4c33c8939</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_login']/div[2]/div/div[2]/img</value>
+      <webElementGuid>9abe5bbb-56ef-4427-8925-30bd82b09cbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Illustration'])[2]</value>
+      <webElementGuid>dac611cf-bc29-4981-8f66-279accf444ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/img</value>
+      <webElementGuid>e822ad5b-5a92-4ca4-90d9-3763846ed56b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://prayaqa.ilcs.co.id/media/logos/ilustrasiPelabuhan New.png' and @alt = 'Illustration']</value>
+      <webElementGuid>fe84a1e2-db2d-4ddc-a6a3-d6b867c466c7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

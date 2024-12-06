@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Customer Name</name>
+   <tag></tag>
+   <elementGuidId>3dc23530-b30a-4988-9639-2905a253d52d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel-booking-information-content']/div/div/div[5]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiExpansionPanelDetails-root > div.row > div.col-md-4 > label.form-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>dc74c18e-278e-47ac-96f2-d3dab665db67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>77bffa4f-a811-41fd-ad49-d7d91d8880de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Customer Name *</value>
+      <webElementGuid>2d1a2cc2-193d-4b46-a1bc-b2f77be8966b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-booking-information-content&quot;)/div[@class=&quot;MuiExpansionPanelDetails-root&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-4&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>bc258ccf-d253-4d40-952b-8a0501042ad7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-booking-information-content']/div/div/div[5]/label</value>
+      <webElementGuid>c20b054f-ebf0-4d41-a161-e3ff33fef9c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/following::label[1]</value>
+      <webElementGuid>0bf78d6f-2e1a-46a9-b1c5-e6e6cfef2dfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Name'])[1]/preceding::label[1]</value>
+      <webElementGuid>75544dac-0390-4565-a1f0-268fdd3c23c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Customer Name']/parent::*</value>
+      <webElementGuid>83e1a5fd-c550-4c35-b1d5-4150655cc5a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[5]/label</value>
+      <webElementGuid>c96e9fa2-d275-44f4-8756-ea7b3661e47d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Customer Name *' or . = 'Customer Name *')]</value>
+      <webElementGuid>a861d7ad-8d28-4095-bd44-716f458d0551</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

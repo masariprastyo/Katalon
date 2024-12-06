@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Profil</name>
+   <tag></tag>
+   <elementGuidId>1cfd57d9-78e6-4b06-b366-6fd97865c22b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_header']/div/div[3]/div[4]/div/div/span[3]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.symbol-label.font-size-h5.font-weight-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ef809bd0-6df3-4606-8dfa-bac1a79f2414</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>symbol-label font-size-h5 font-weight-bold</value>
+      <webElementGuid>07de872d-00cc-400e-bb4b-2a861ac68595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>P</value>
+      <webElementGuid>e87b9497-a18e-4ef3-9e6e-38cb81f9f0f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_header&quot;)/div[@class=&quot;container-fluid d-flex align-items-stretch justify-content-between&quot;]/div[@class=&quot;topbar ml-auto&quot;]/div[@class=&quot;show dropdown&quot;]/div[@class=&quot;topbar-item&quot;]/div[@class=&quot;btn btn-icon w-auto btn-clean d-flex align-items-center btn-lg px-2&quot;]/span[@class=&quot;symbol symbol-35 symbol-light-success&quot;]/span[@class=&quot;symbol-label font-size-h5 font-weight-bold&quot;]</value>
+      <webElementGuid>ca2439ef-9bbf-4e98-b92e-b37a2287da85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_header']/div/div[3]/div[4]/div/div/span[3]/span</value>
+      <webElementGuid>82828d12-535c-4347-aa84-6d8eff5cf87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Praya Dev'])[1]/following::span[2]</value>
+      <webElementGuid>fb7649fd-431a-4962-8cbe-3d6d77c92e4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hi,'])[1]/following::span[3]</value>
+      <webElementGuid>831e1485-471f-49ef-a292-9f830402cb30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P'])[2]/preceding::span[1]</value>
+      <webElementGuid>23a5b2b8-598d-41d4-bc57-da1101fba12c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Praya Dev'])[2]/preceding::span[2]</value>
+      <webElementGuid>1289d3ea-8648-4a17-8576-70c10cbffae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='P']/parent::*</value>
+      <webElementGuid>43d5a2ad-7200-40d0-8d19-2929db70a93e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/span</value>
+      <webElementGuid>4fb3dcc6-e9b1-4935-8d28-0a5a5fa21cc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'P' or . = 'P')]</value>
+      <webElementGuid>02ef5b5a-d27e-4952-885f-98b2f19b3791</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_ISO Code</name>
+   <tag></tag>
+   <elementGuidId>5cb76003-b9b7-42f9-b1be-6e764e80098e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel-detail-container-content']/div/div/div[22]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>ac466636-179d-4666-b243-d8fde88a6777</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>a4e6d49f-621b-45c6-a4f6-03d7753d4993</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ISO Code *</value>
+      <webElementGuid>76bfef6d-6868-4bf7-9efd-b5b2fda8a4eb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-detail-container-content&quot;)/div[@class=&quot;MuiExpansionPanelDetails-root&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>99b67395-11c8-4279-87e4-8c7f8ad5c913</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-detail-container-content']/div/div/div[22]/label</value>
+      <webElementGuid>f372608a-339c-4954-b8c9-b432b444dbbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[21]/following::label[1]</value>
+      <webElementGuid>9c30e4c9-0474-4154-a9cf-3c186a033118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seal Number'])[1]/preceding::label[1]</value>
+      <webElementGuid>c4114c48-ac6a-4855-8410-70f4f41cb112</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[22]/label</value>
+      <webElementGuid>5fac519f-96f4-408a-a081-7ae0774b9d7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'ISO Code *' or . = 'ISO Code *')]</value>
+      <webElementGuid>619063ca-c4a5-40b8-a9c5-662e0b5c2460</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Captcha_form-control mt-5</name>
+   <tag></tag>
+   <elementGuidId>5553c206-65ed-438e-879c-e626f78d5960</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@value=''])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.form-control.mt-5</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>fa15c4cd-6d70-4410-b35e-e446cfa0c22d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>3b011d0b-eb43-4010-a09e-1931f27bad09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control mt-5</value>
+      <webElementGuid>b8ca5114-ead6-43f1-9c2c-6a0448c01220</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter Captcha</value>
+      <webElementGuid>fdcf30c4-90b6-487d-ab54-6f96b9890d07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login&quot;)/div[@class=&quot;p-0 col-lg-6 col-md-12 col-12&quot;]/div[@class=&quot;d-flex  flex-column h-100 p-0&quot;]/div[@class=&quot;mr-auto mt-auto ml-auto d-flex d-md-block align-items-center justify-content-center p-0 col-md-10 col-12&quot;]/div[@class=&quot;container-fluid align-middle p-0&quot;]/div[1]/div[@class=&quot;px-md-7 mx-md-1 mt-md-12 px-7&quot;]/div[@class=&quot;form-group&quot;]/input[@class=&quot;form-control mt-5&quot;]</value>
+      <webElementGuid>e7592af6-57bf-44c8-b693-2f12cd7825e9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@value=''])[2]</value>
+      <webElementGuid>87f0b160-526a-44cb-9fad-269ae021b4ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_login']/div/div/div/div/div/div[2]/div[3]/input</value>
+      <webElementGuid>8e962a57-f903-40a2-9584-c6b8a3f6d968</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>6fd9e9e1-e209-42c1-b021-879834a2ec28</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Enter Captcha']</value>
+      <webElementGuid>7a6c19dd-3888-4ea8-a343-eb9dbb17c9a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

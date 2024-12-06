@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Pay</name>
+   <tag></tag>
+   <elementGuidId>8f89e911-9818-4dd3-abcf-f77468b9c091</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div[1]/div[2]/div/div[2]/div[2]/div[2]/div/div/div/div/div[2]/div/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-block.mb-0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0ccc4049-f73f-4bf4-832d-9ce5e9d87e9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary btn-block mb-0</value>
+      <webElementGuid>51804424-7976-4807-af0f-e9ffa1f8349f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Add Container</value>
+      <webElementGuid>45da1b11-0811-4b55-8105-2eb144fd223f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-detail-container-content&quot;)/div[@class=&quot;MuiExpansionPanelDetails-root&quot;]/div[@class=&quot;form-group mt-4 row&quot;]/div[@class=&quot;d-flex col-sm-3 col-6&quot;]/button[@class=&quot;btn btn-primary btn-block mb-0&quot;]</value>
+      <webElementGuid>9aff8e75-8d1a-4511-89cf-ec1d4df6a069</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-detail-container-content']/div/div[2]/div/button</value>
+      <webElementGuid>06324491-8edd-4ee6-b8a6-20718c8be966</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Over Size Top'])[1]/following::button[1]</value>
+      <webElementGuid>4bec6c77-2a8c-453d-b100-9910ad51b87b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Over Right'])[1]/following::button[1]</value>
+      <webElementGuid>45abaf87-3c27-4067-9746-f1dfcfc767ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download Template'])[1]/preceding::button[1]</value>
+      <webElementGuid>0bf20134-dc6b-4857-ac79-cbcbee8f9295</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Upload Template'])[1]/preceding::button[2]</value>
+      <webElementGuid>462b3a5c-db0f-499f-b55d-2f4189b627b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add Container']/parent::*</value>
+      <webElementGuid>e740628e-a2c1-49b2-a8d2-7db6513329fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div/div[2]/div/button</value>
+      <webElementGuid>27cc4a0e-b43a-4ac2-b274-569183749fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = ' Add Container' or . = ' Add Container')]</value>
+      <webElementGuid>cc9d967f-9542-4832-8b0a-0a1c7b88a738</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

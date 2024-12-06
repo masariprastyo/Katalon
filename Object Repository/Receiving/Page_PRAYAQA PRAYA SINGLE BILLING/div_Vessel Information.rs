@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Vessel Information</name>
+   <tag></tag>
+   <elementGuidId>d60f17f0-cb80-4e1e-85ee-6f607ed3796b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel-vessel-information-header']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.MuiExpansionPanelSummary-content</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8ca9ff3-7f85-49b5-bff9-ae4bcea46aa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>MuiExpansionPanelSummary-content</value>
+      <webElementGuid>a3c78efa-7400-49d0-86c4-33b05d26c572</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vessel Information</value>
+      <webElementGuid>872dfcbc-dad1-41d5-94f8-e8b269f47a19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-vessel-information-header&quot;)/div[@class=&quot;MuiExpansionPanelSummary-content&quot;]</value>
+      <webElementGuid>a2002918-dfab-412e-93fe-089924d978f1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-vessel-information-header']/div</value>
+      <webElementGuid>0c652be5-7a18-4203-ba1f-43237158b7a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Request Receiving'])[1]/following::div[5]</value>
+      <webElementGuid>3e309e93-24c6-49b3-ae16-941fe1a5bffa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PAY'])[1]/following::div[13]</value>
+      <webElementGuid>785a157b-94a5-4659-841c-319ff95e5fd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div[2]/div/div/div/div</value>
+      <webElementGuid>04fa73d6-7bd0-428b-ae86-957d79a551d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Vessel Information' or . = 'Vessel Information')]</value>
+      <webElementGuid>23e1cf41-e619-4b3f-b1e7-00d28d0815fb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

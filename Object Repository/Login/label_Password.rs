@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Password</name>
+   <tag></tag>
+   <elementGuidId>8472b550-986c-4711-b2e6-bc436bd51f7d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_login']/div/div/div/div/div/div[2]/div[2]/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.d-flex.justify-content-between.align-items-center > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>8b387ae3-26a0-43d8-9f57-7933893a07c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Password</value>
+      <webElementGuid>be92925e-dd98-4be8-b189-cf88e4290738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_login&quot;)/div[@class=&quot;p-0 col-lg-6 col-md-12 col-12&quot;]/div[@class=&quot;d-flex  flex-column h-100 p-0&quot;]/div[@class=&quot;mr-auto mt-auto ml-auto d-flex d-md-block align-items-center justify-content-center p-0 col-md-10 col-12&quot;]/div[@class=&quot;container-fluid align-middle p-0&quot;]/div[1]/div[@class=&quot;px-md-7 mx-md-1 mt-md-12 px-7&quot;]/div[@class=&quot;form-group&quot;]/div[@class=&quot;d-flex justify-content-between align-items-center&quot;]/label[1]</value>
+      <webElementGuid>becca86e-3aee-4586-a042-41e6b33bf956</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_login']/div/div/div/div/div/div[2]/div[2]/div/label</value>
+      <webElementGuid>189e2704-8f05-4bc4-80ee-9abf962e7282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Username'])[1]/following::label[1]</value>
+      <webElementGuid>e6991da2-22f6-4321-9b04-bcc164ff9818</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Forgot Password ?'])[1]/preceding::label[1]</value>
+      <webElementGuid>bf164c0d-aa07-4eea-a9b2-757dcfbff2a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Captcha'])[1]/preceding::label[2]</value>
+      <webElementGuid>ecee4512-8813-4d6b-92ea-a35b49ad0494</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Password']/parent::*</value>
+      <webElementGuid>3b2181d4-8ad4-4644-ad4c-367f15038b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/label</value>
+      <webElementGuid>9ea930e9-bc9c-49e4-9e6e-4b1017e4c2f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Password' or . = 'Password')]</value>
+      <webElementGuid>e1a5afbc-ea52-4a51-91fb-1bc51fddb6e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

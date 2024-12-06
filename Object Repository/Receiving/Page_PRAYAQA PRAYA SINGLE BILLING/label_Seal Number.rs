@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Seal Number</name>
+   <tag></tag>
+   <elementGuidId>85ae5456-d57b-43ce-9498-c12e2e4e6cf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel-detail-container-content']/div/div/div[23]/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a2982fda-ab8e-4456-91e6-f1485e32210b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-label</value>
+      <webElementGuid>4dd1d95c-323c-43f1-8e61-df31dc7e5b81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Seal Number </value>
+      <webElementGuid>e8c13a2d-d4e4-4390-bf7d-3cc9dd5858ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-detail-container-content&quot;)/div[@class=&quot;MuiExpansionPanelDetails-root&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-3&quot;]/label[@class=&quot;form-label&quot;]</value>
+      <webElementGuid>6b339a8a-99dc-4d1d-a114-a7d1339931a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-detail-container-content']/div/div/div[23]/label</value>
+      <webElementGuid>b9eb46df-413f-4c22-ad40-34bc39c477cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[22]/following::label[1]</value>
+      <webElementGuid>0d0659c6-42df-409c-b478-dbdda62d0b4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sling'])[1]/preceding::label[1]</value>
+      <webElementGuid>3b29a4cf-d58a-438b-90a6-4da6c98c0780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Door(OD)'])[1]/preceding::label[2]</value>
+      <webElementGuid>dcc1136d-e49a-4975-9933-f6813f81c899</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Seal Number']/parent::*</value>
+      <webElementGuid>d05eea5e-418c-4c90-b62c-d148c0b98b69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[23]/label</value>
+      <webElementGuid>c11a154b-7232-4007-97d4-1d762d1a3ce0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Seal Number ' or . = 'Seal Number ')]</value>
+      <webElementGuid>ddf36e12-f76f-4213-90cd-eef0e7f73116</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

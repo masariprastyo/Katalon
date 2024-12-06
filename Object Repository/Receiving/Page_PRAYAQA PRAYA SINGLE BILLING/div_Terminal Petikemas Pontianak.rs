@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Terminal Petikemas Pontianak</name>
+   <tag></tag>
+   <elementGuidId>733e6fc3-b0e2-4c10-a15d-bd5517160d85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topbar-select-terminal']/div[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-cCsOjp.jHCDdu</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>72baadff-3910-4b3e-9678-9359e151c26a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-cCsOjp jHCDdu</value>
+      <webElementGuid>15ceecb5-45a5-47a7-98d0-e73d82e7365a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Terminal Petikemas Pontianak</value>
+      <webElementGuid>4638846a-a1a0-4bce-b7b1-432ac4b74e46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topbar-select-terminal&quot;)/div[@class=&quot;sc-cCsOjp jHCDdu&quot;]</value>
+      <webElementGuid>1ec1c25f-56ab-4d35-b19d-bbc6ae84d6d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topbar-select-terminal']/div</value>
+      <webElementGuid>6026d153-0440-40b2-97ca-820efd6a1adb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ctrl+n'])[1]/following::div[3]</value>
+      <webElementGuid>26631084-8c0f-45ad-bfca-3645f1f6e32c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Searching...'])[1]/following::div[3]</value>
+      <webElementGuid>41acc63b-241a-481e-8733-951e4b31822f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TP 1 ZONA 3'])[1]/preceding::div[1]</value>
+      <webElementGuid>61c7d53f-86df-4091-b29d-31b4558ba67b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[3]/div[2]/div/div</value>
+      <webElementGuid>14275211-6a5c-4686-8391-211450971c0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Terminal Petikemas Pontianak' or . = 'Terminal Petikemas Pontianak')]</value>
+      <webElementGuid>3292f394-f1a1-4a06-a263-0053e7866f6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

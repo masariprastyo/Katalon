@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h6_Booking Information</name>
+   <tag></tag>
+   <elementGuidId>4f57187d-eb1b-4921-bb46-e57c010440cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='panel-booking-information-header']/div/h6</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#panel-booking-information-header > div.MuiExpansionPanelSummary-content > h6.panel-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h6</value>
+      <webElementGuid>7137e8aa-587a-4782-88b5-618ee1880a02</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>panel-title</value>
+      <webElementGuid>d3a19bba-bed1-46fb-9d2e-686de7f24fa5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Booking Information</value>
+      <webElementGuid>c957b266-573e-4876-9a9d-7c7be667c55d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;panel-booking-information-header&quot;)/div[@class=&quot;MuiExpansionPanelSummary-content&quot;]/h6[@class=&quot;panel-title&quot;]</value>
+      <webElementGuid>daff912b-a740-4598-9f21-0f8019a78ec0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='panel-booking-information-header']/div/h6</value>
+      <webElementGuid>ba9523cb-d401-40a6-92f2-14612c212330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking Limit Left'])[1]/following::h6[1]</value>
+      <webElementGuid>453ca758-5c44-4cae-84d8-8cc64de64dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Closing Time Doc'])[1]/following::h6[1]</value>
+      <webElementGuid>6dcc9815-2987-4561-a2fe-a8d6918ee5ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::h6[1]</value>
+      <webElementGuid>ec4c911f-267d-43ea-a791-608e504383c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Booking Information']/parent::*</value>
+      <webElementGuid>6eb7c793-bdb1-4073-8fbd-a73bc108ff0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/h6</value>
+      <webElementGuid>4f0caee9-8670-42ef-b65d-9afdeb75e676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h6[(text() = 'Booking Information' or . = 'Booking Information')]</value>
+      <webElementGuid>20e7087e-0803-49e6-93ec-978077bfcd35</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
